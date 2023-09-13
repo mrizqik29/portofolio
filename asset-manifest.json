@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5b6f386.css",
+    "main.js": "/static/js/main.6afb45ad.js",
+    "static/media/1.png": "/static/media/1.c9ef33d53bce9ec42d40.png",
+    "static/media/profile.png": "/static/media/profile.870b0df311c6bdf8d58a.png",
+    "static/media/dahlah.jpg": "/static/media/dahlah.25d620a4ff10f29ad4fa.jpg",
+    "static/media/BNSP.png": "/static/media/BNSP.2c935abae1cb217f3579.png",
+    "static/media/2365.jpg": "/static/media/2365.b570e0d433bc42384ed6.jpg",
+    "static/media/alfie.png": "/static/media/alfie.406c608dcdb514c4086f.png",
+    "static/media/balqis.png": "/static/media/balqis.96672f2ae350be1214ee.png",
+    "static/media/coba.png": "/static/media/coba.aae3b292723377520c68.png",
+    "static/media/instagram.png": "/static/media/instagram.fe5c5dbaf8f6296ec7a7.png",
+    "static/media/tiktok.png": "/static/media/tiktok.797444d6c1f835ad4f9f.png",
+    "static/media/bedull.jpg": "/static/media/bedull.d1271c2af8c2d83d1e77.jpg",
+    "static/media/github.png": "/static/media/github.ba57b0e0a8e0600a63e3.png",
+    "static/media/linked.png": "/static/media/linked.b6fe5de3515687849a75.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/facebook.png": "/static/media/facebook.5ce3a1ca8559b4dc0487.png",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.f5b6f386.css.map": "/static/css/main.f5b6f386.css.map",
+    "main.6afb45ad.js.map": "/static/js/main.6afb45ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b6f386.css",
+    "static/js/main.6afb45ad.js"
+  ]
+}
